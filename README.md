@@ -2,7 +2,11 @@
 
 ## Project setup
 ```
-npm install
+npm instalar -g @vue/cli
+
+vue create proyectowobiz
+
+Copiar los archivos dentro del la carpeta donde se creo el proyecto y subescribirlos
 ```
 
 ### Compiles and hot-reloads for development
