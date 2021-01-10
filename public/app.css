@@ -1,0 +1,70 @@
+.btnMod {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+	background-color:#1bb8e3;
+	border-top-left-radius:3px;
+	border-top-right-radius:3px;
+	border-bottom-right-radius:3px;
+	border-bottom-left-radius:3px;
+	border:0px solid #0b0e07;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	transition: all 500ms;
+}.btnMod:hover {
+	background-color:#106e88;
+	transition: all 500ms ease;
+}.btnMod:active {
+	position:relative;
+	top:1px;
+
+}
+
+img{
+    display:block;
+    margin:auto;
+}
+	
+.lblLogin{
+    font-weight:bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.olvCont{
+    color: darkgrey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.olvCont:hover {
+	color: #0b0e07;
+}
+
+.formdisgn{
+	margin:auto;
+}
+.button-container{
+	display:inline-block;
+	position:relative;
+	}
+	
+	.button-container a{
+	position: absolute;
+	top:4em;
+	right:4em;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	padding:0.5em 1em;
+	}
+
+	.button-container label{
+		position: absolute;
+		top:4em;
+		right:15em;
+	}
